@@ -1,5 +1,5 @@
 #!/bin/bash
-#Changelog: 
+# Changelog: 
 # 15/Nov/2016: Criação do arquivo func.sh (Fabio Soares Schmidt)
 
 #FUNCOES E VARIAVEIS PARA O UTILITARIO
@@ -219,3 +219,4 @@ rm -fr $WORKDIR/alias
 }
 
 ##
+ 
